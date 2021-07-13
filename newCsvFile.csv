@@ -1,0 +1,74 @@
+id;age;sex;height;weight;ap_hi;ap_io;cholesterol;glycose;smoke;alcoholic;actif;heart_disease;heartbeat;Maladie;Medicament
+0;50;Female;168;55;120;90;normal;normal;1;yes;yes;no;64.03;Angina_chest;Beta_bloquant
+1;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+14;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+3;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+8;47;Male;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+6;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+7;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+10;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+88;15;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+90;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+92;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+94;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+95;20;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+96;21;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+97;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+100;50;Female;168;55;120;90;normal;normal;1;yes;yes;no;64.03;Angina_chest;Beta_bloquant
+103;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+104;51;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+105;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+106;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+107;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+108;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+109;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+111;15;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+113;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+114;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+115;47;Male;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+116;20;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+117;21;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+119;48;Female;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+121;15;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+122;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+123;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+124;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+125;20;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+126;21;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+127;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+129;50;Female;168;55;120;90;normal;normal;1;yes;yes;no;64.03;Angina_chest;Beta_bloquant
+131;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+132;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+133;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+134;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+135;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+136;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+137;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+138;15;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+139;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+140;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+141;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+142;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+143;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+144;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+145;15;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+146;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+148;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+149;47;Male;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+154;20;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+157;21;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+158;48;Female;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+161;15;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+162;17;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+163;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+164;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+166;20;Female;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+167;21;Male;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+168;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+169;50;Female;168;55;120;90;normal;normal;1;yes;yes;no;64.03;Angina_chest;Beta_bloquant
+170;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+171;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
+172;48;Male;169;62;150;100;normal;normal;1;no;yes;yes;49.31;Heart_failure;Antagoniste
+173;47;Female;156;56;100;60;normal;normal;1;yes;no;no;50.8;Coranary_heart_disease;Anticogulant
+174;55;Male;156;50;140;90;well above normal;normal;1;yes;yes;yes;45.3;Arrhythmia;Exacor
+175;51;Female;165;64;130;90;well above normal;normal;0;no;yes;yes;44.67;Arteriosclerosis;Flecaine
